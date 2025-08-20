@@ -1,5 +1,7 @@
 # Safe Nest
-<img width="1360" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/821740a7-19f1-4da9-aecd-f77325ad5566" />
+https://familysafenest.netlify.app/
+<img width="1345" height="616" alt="image" src="https://github.com/user-attachments/assets/e9072772-06e6-4186-aa91-70aa11ec990c" />
+
 
 Safe Nest – Your family's digital guardian.  
 Track, monitor, and protect your loved ones with features like:
