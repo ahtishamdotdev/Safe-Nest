@@ -1,4 +1,5 @@
 # Safe Nest
+<img width="1360" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/821740a7-19f1-4da9-aecd-f77325ad5566" />
 
 Safe Nest – Your family's digital guardian.  
 Track, monitor, and protect your loved ones with features like:
